@@ -1,4 +1,4 @@
-package com.cabin.demo.core;
+package com.cabin.demo.core.lambda;
 
 @FunctionalInterface
 public interface MyEventConsumer {
